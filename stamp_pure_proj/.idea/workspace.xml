@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c30188bc-99e8-4d75-a062-5f9664ee16ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="79f84daf-26f0-4037-952a-0e9e10d587b3" />
+  <component name="ProjectId" id="2CNXNmDmmIzNUfhHRs0lE2Yf4q0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\stamp_pure_proj" />
+      <recent name="D:\PycharmProjects\stamp_pure_proj\final_grade" />
+      <recent name="D:\PycharmProjects\stamp_pure_proj\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\stamp_pure_proj" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.every_score_mytest_1010_v7_v4">
+    <configuration name="adjust_common_v8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stamp_pure_proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adjust_common_v8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="every_score_mytest_1010" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stamp_pure_proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/every_score_mytest_1010.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="every_score_mytest_1010_v7_v4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stamp_pure_proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/every_score_mytest_1010_v7_v4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="every_score_mytest_1010_v8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stamp_pure_proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/every_score_mytest_1010_v8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stamp_pure_proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage_v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.every_score_mytest_1010_v7_v4" />
+        <item itemvalue="Python.every_score_mytest_1010_v8" />
+        <item itemvalue="Python.every_score_mytest_1010" />
+        <item itemvalue="Python.manage_v1" />
+        <item itemvalue="Python.adjust_common_v8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c30188bc-99e8-4d75-a062-5f9664ee16ed" name="Default Changelist" comment="" />
+      <created>1658643978100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658643978100</updated>
+      <workItem from="1658643987584" duration="17769000" />
+      <workItem from="1658708945115" duration="22000" />
+      <workItem from="1658897734064" duration="1316000" />
+      <workItem from="1659330312507" duration="1241000" />
+      <workItem from="1660664636336" duration="2194000" />
+      <workItem from="1660723869143" duration="813000" />
+      <workItem from="1661845060608" duration="1924000" />
+      <workItem from="1662303894950" duration="1336000" />
+      <workItem from="1662342224827" duration="17000" />
+      <workItem from="1663206180227" duration="31000" />
+      <workItem from="1663316646539" duration="3518000" />
+      <workItem from="1663552921122" duration="9376000" />
+      <workItem from="1663596428743" duration="644000" />
+      <workItem from="1663640763283" duration="1985000" />
+      <workItem from="1663812885977" duration="4772000" />
+      <workItem from="1664176375314" duration="143000" />
+      <workItem from="1664176532499" duration="603000" />
+      <workItem from="1664424581959" duration="8011000" />
+      <workItem from="1664522006541" duration="1318000" />
+      <workItem from="1664864675657" duration="8540000" />
+      <workItem from="1664957173256" duration="13408000" />
+      <workItem from="1665023561750" duration="9077000" />
+      <workItem from="1665131416359" duration="612000" />
+      <workItem from="1665216175232" duration="5578000" />
+      <workItem from="1665299372307" duration="8538000" />
+      <workItem from="1665318827560" duration="1103000" />
+      <workItem from="1665378130037" duration="3619000" />
+      <workItem from="1665387419575" duration="4003000" />
+      <workItem from="1665453364332" duration="1180000" />
+      <workItem from="1665456310206" duration="12256000" />
+      <workItem from="1665490792651" duration="6215000" />
+      <workItem from="1665502311830" duration="2477000" />
+      <workItem from="1665544091662" duration="5418000" />
+      <workItem from="1665555496341" duration="181000" />
+      <workItem from="1665555688569" duration="11166000" />
+      <workItem from="1665643370899" duration="7783000" />
+      <workItem from="1665663029237" duration="8948000" />
+      <workItem from="1665715581833" duration="21501000" />
+      <workItem from="1665757991090" duration="6747000" />
+      <workItem from="1665823180558" duration="4066000" />
+      <workItem from="1665974005876" duration="9952000" />
+      <workItem from="1666057028110" duration="4134000" />
+      <workItem from="1666078974448" duration="3407000" />
+      <workItem from="1666147488246" duration="8776000" />
+      <workItem from="1666231389040" duration="3216000" />
+      <workItem from="1667207260194" duration="5784000" />
+      <workItem from="1667271784911" duration="5845000" />
+      <workItem from="1667457821051" duration="4675000" />
+      <workItem from="1667553213305" duration="2043000" />
+      <workItem from="1667806924783" duration="8554000" />
+      <workItem from="1667832859132" duration="2529000" />
+      <workItem from="1667892125754" duration="1615000" />
+      <workItem from="1667895667680" duration="2084000" />
+      <workItem from="1668061383786" duration="668000" />
+      <workItem from="1668409121710" duration="1918000" />
+      <workItem from="1668578216264" duration="181000" />
+      <workItem from="1669565082949" duration="1079000" />
+      <workItem from="1669607181683" duration="12000" />
+      <workItem from="1677740451854" duration="58000" />
+      <workItem from="1679056840011" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="85" key="#Deployment" timestamp="1664957466676">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="361" y="67" key="#Deployment/0.0.1536.816@0.0.1536.816" timestamp="1658644953536" />
+    <state x="451" y="85" key="#Deployment/0.0.1920.1032@0.0.1920.1032" timestamp="1664957466676" />
+    <state x="361" y="67" key="#Options" timestamp="1658644882629">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#Options/0.0.1536.816@0.0.1536.816" timestamp="1658644882629" />
+    <state x="262" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1665249801553">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="262" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1665249801553" />
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1665762493474">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1665762493474" />
+    <state x="93" y="93" width="1350" height="630" key="DiffContextDialog" timestamp="1665761685211">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="DiffContextDialog/0.0.1536.816@0.0.1536.816" timestamp="1665761685211" />
+    <state x="93" y="93" width="1350" height="630" key="DirDiffDialog" timestamp="1658649570458">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="DirDiffDialog/0.0.1536.816@0.0.1536.816" timestamp="1658649570458" />
+    <state width="1877" height="344" key="GridCell.Tab.0.bottom" timestamp="1667284314985">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1665250326489" />
+    <state width="1877" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1667284314985" />
+    <state width="1877" height="344" key="GridCell.Tab.0.center" timestamp="1667284314985">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1665250326489" />
+    <state width="1877" height="344" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1667284314985" />
+    <state width="1877" height="344" key="GridCell.Tab.0.left" timestamp="1667284314985">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1665250326489" />
+    <state width="1877" height="344" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1667284314985" />
+    <state width="1877" height="344" key="GridCell.Tab.0.right" timestamp="1667284314985">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1665250326489" />
+    <state width="1877" height="344" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1667284314985" />
+    <state x="262" y="82" width="1125" height="716" key="SettingsEditor" timestamp="1665823926340">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="262" y="82" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1665823926340" />
+    <state x="246" y="189" width="1125" height="716" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1664957581732" />
+    <state x="784" y="319" width="803" height="524" key="find.popup" timestamp="1665999019183">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="784" y="319" width="803" height="524" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1665999019183" />
+    <state x="645" y="139" key="ftp.server.browser" timestamp="1658644861046">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="645" y="139" key="ftp.server.browser/0.0.1536.816@0.0.1536.816" timestamp="1658644861046" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/stamp_pure_proj$main_v7.coverage" NAME="main_v7 Coverage Results" MODIFIED="1663206186969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stamp_pure_proj$test.coverage" NAME="test Coverage Results" MODIFIED="1663813859453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stamp_pure_proj$grade_stamp_12.coverage" NAME="grade_stamp_12 Coverage Results" MODIFIED="1665649354877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final_grade" />
+    <SUITE FILE_PATH="coverage/stamp_pure_proj$manage_test.coverage" NAME="manage_test Coverage Results" MODIFIED="1665025736124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stamp_pure_proj$every_score_mytest_1010_v7_v4.coverage" NAME="every_score_mytest_1010_v7_v4 Coverage Results" MODIFIED="1667281503587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stamp_pure_proj$manage.coverage" NAME="manage Coverage Results" MODIFIED="1665249561608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stamp_pure_proj$every_score_mytest_1010.coverage" NAME="every_score_mytest_1010 Coverage Results" MODIFIED="1667277059255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stamp_pure_proj$adjust_common_v8.coverage" NAME="adjust_common_v8 Coverage Results" MODIFIED="1665653119741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stamp_pure_proj$manage_v1.coverage" NAME="manage_v1 Coverage Results" MODIFIED="1665736492866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stamp_pure_proj$every_score_mytest_1010_v8.coverage" NAME="every_score_mytest_1010_v8 Coverage Results" MODIFIED="1667277908892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

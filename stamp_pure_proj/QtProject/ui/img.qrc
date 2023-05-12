@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="mainbackground">
+    <file>Logo_of_Beijing_University_of_Posts_and_Communications2.svg</file>
+    <file>bupt_logo2.jpg</file>
+    <file>view.jpg</file>
+  </qresource>
+</RCC>

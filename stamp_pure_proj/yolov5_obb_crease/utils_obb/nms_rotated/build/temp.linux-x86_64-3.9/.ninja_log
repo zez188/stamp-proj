@@ -1,0 +1,5 @@
+# ninja log v5
+0	4379	1646659214877823947	/data/ZGM/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.9/src/nms_rotated_cpu.o	7caf79423df63d62
+1	8445	1646659218937755860	/data/ZGM/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.9/src/poly_nms_cuda.o	d3eb3cf559fcc1d7
+1	9497	1646659219989738204	/data/ZGM/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.9/src/nms_rotated_cuda.o	2286ba8035c9d35f
+1	12470	1646659222969688157	/data/ZGM/yolov5_obb/utils/nms_rotated/build/temp.linux-x86_64-3.9/src/nms_rotated_ext.o	5a9e11b0652600f4
